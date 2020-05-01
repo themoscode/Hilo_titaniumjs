@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+
+    <string name="Okay">Okay</string>
+    <string name="Cancel">Abbrechen</string>
+    <string name="Connect">Verbinden</string>
+    <string name="MoreOptions">Weitere Optionen</string>
+    <string name="NewContact">Neuer Kontakt</string>
+    <string name="NewGroup">Neue Gruppe</string>
+    <string name="Next">Weiter</string>
+    <string name="addPhoto">Foto \n hinzufügen</string>
+    <string name="build">Erstellen</string>
+    <string name="groupName">Gruppenname</string>
+    <string name="About">Über</string>
+
+    <string name="MoreWindowTitle">mehr</string>
+    <string name="MoreWindowNewContactButtonTitle">Neuer Kontakt</string>
+    <string name="MoreWindowSettingsButtonTitle">Einstellungen</string>
+    <string name="MoreWindowAboutButtonTitle">Über</string>
+    <string name="ChatsWindowTitle">chat</string>
+    <string name="ChatsWindowTabbedBarAllButtonTitle">Alle</string>
+    <string name="CallsWindowTitle">Anrufe</string>
+    <string name="CallsWindowTabAll">Alle</string>
+    <string name="CallsWindowTabLost">Entgangen</string>
+
+    <string name="ContactsWindowTitle">Kontakte</string>
+    <string name="ContactsWindowTabbedBarAllButtonTitle">Alle</string>
+    <string name="ContactsWindowLabelNewGroup">Neue Gruppe</string>
+    <string name="ContactsWindowLabelNewSecretChat">Neue geheimer chat</string>
+    
+    <string name="ContactsGroupWindowNamesLabel">Wem willst du eine Nachricht schicken?</string>
+    
+    <string name="ConversationsWindowTitle">Unterhaltung</string>
+    <string name="ProfileWindowButtonfreeSms">Gratis-SMS</string>
+    <string name="ProfileWindowButtonfreeCall">Gratisanruf</string>
+    <string name="ProfileWindowLabelCallAnyNumber">BELIEBIGE Nummer anrufen</string>
+
+    <string name="RegisterWindowRegisterLabel">Registrierung</string>
+    <string name="RegisterWindowConfirmCodeLabel">Bestätigungscode eingeben</string>
+    <string name="RegisterWindowFurtherButtonText">Weiter</string>
+    <string name="RegisterWindowSmsQuestionLabel">Hast du keine SMS erhalten?</string>
+    <string name="RegisterWindowNeuConfirmationCodeSendButtonText">Bestätigungscode erneut senden</string>
+    <string name="CountryTelWindowTitleLabel">Dein Telefon</string>
+    <string name="CountryTelWindowDescriptionLabel">Bitte wählen Sie Ihr Land aus, geben Sie Ihr Rufnummer ein und klicken Sie auf Fortfahren :</string>
+    <string name="CountryTelWindowCountryLabel">Ihr Land</string>
+    <string name="CountryTelWindowCountryTextFieldHintText">Deutschland (+49)</string>
+    <string name="CountryTelWindowPhoneNumberTextField">Rufnummer</string>
+    <string name="CountryTelWindowSubmitButton">Fortfahren</string>
+
+    <string name="edit">-Bearbeiten</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Abbrechen</string>
+    <string name="save">Speichern</string>
+    <string name="yes">Ja</string>
+    <string name="no">Nein</string>
+    <string name="reject">Ablehnen</string>
+    <string name="allow">Erlauben</string>
+    <string name="submit">Fortfahren</string>
+    <string name="abort">Abbrechen</string>
+    <string name="message">Nachricht</string>
+    <string name="answer">Antworten</string>
+    <string name="incoming">Eingehend</string>
+    <string name="running">läuft</string>
+    <string name="ready">Fertig</string>
+
+    <string name="sunday">Sontag</string>
+    <string name="monday">Montag</string>
+    <string name="tuesday">Dienstag</string>
+    <string name="wednesday">Mittwoch</string>
+    <string name="thursday">Donerstag</string>
+    <string name="friday">Freitag</string>
+    <string name="saturday">Samstag</string>
+
+    <string name="January">Januar</string>
+    <string name="February">Februar</string>
+    <string name="March">März</string>
+    <string name="April">April</string>
+    <string name="May">Mai</string>
+    <string name="June">Juni</string>
+    <string name="July">Juli</string>
+    <string name="August">August</string>
+    <string name="September">September</string>
+    <string name="October">Oktober</string>
+    <string name="November">November</string>
+    <string name="December">Dezember</string>
+
+    <string name="mobile">Mobil</string>
+
+    <string name="CountryTelWindowDialogueMessage">Ist das Ihre aktuelle Nummer?\n(+49) 016354551366\n Es wird eine SMS mit Ihrem \n Zugriffscode an diese Nummer \n gesendet.</string>
+    <string name="CountryTelWindowDialogueTitle">Verifizierung der Rufnummer</string>
+
+    <string name="InformationWindowTitle">Dein Information</string>
+   
+    <string name="InformationWindowDialogueTitle">Darf Hilo auf Ihre Kontakte zugreifen?</string>
+    <string name="InformationWindowDialogueMessage">Hilo speichert deine Kontakte verschlüsselt in der Cloud, damit du dich mit deinen Freunden auf alle deinen geräten verbinden kannst</string>
+
+    <string name="InformationWindowDialogueTitle2">Darf „Hilo“ Ihnen Push-Mitteilungen senden?</string>
+    <string name="InformationWindowDialogueMessage2">Mitteilungen können Töne,Meldungen und Symbol-kennzeichen sein, die in den Einstellungen konfiguriert werden können</string>
+
+    <string name="LoginWindowTitleLabel">Anmelden</string>
+    <string name="LoginWindowDescriptionLabel">Bitte geben Sie Ihren Benutzername und Ihr Passwort ein</string>
+    <string name="LoginWindowUsernameTextFieldHintText">Benutzername</string>
+    <string name="LoginWindowPasswordTextFieldHintText">Passwort</string>
+
+    <string name="QrCodeWindowDescriptionLabel">Wenn Ihr Freund Ihren QR-Code acannt, kann er Ihre Rufnummer hinzufügen</string>
+    <string name="QrCodeWindowCodeScanButton">QR-Code scannen</string>
+    <string name="QrCodeWindowTitleLabel">My QR-Code</string>
+
+    <string name="CallsWindowAbsenceText">Anruf in Abwesenheit</string>
+    
+
+
+    <string name="LoadingReferenceHostsHint">Referenzserver im Land %s werden getestet...</string>
+    <string name="PingingNodeServers">Node Server im Land %s werden getestet...</string>
+    <string name="NoReferenceHostsFoundHint">Es konnte leider kein Node Server im Land %s gefunden werden.</string>
+
+    <string name="FoundNodeDialogTitle">Herzlichen Glückwunsch</string>
+    <string name="FoundNodeDialogMessage">Offenbar versucht ein Zensor deine Kommunikationsfreiheit einzuschränken. Dennoch hat Hilo einen Weg gefunden, um diese Einschränkungen zu umgehen. Möchtest du dich mit einem Server verbinden, welcher dir eine freie Kommunikation emöglicht?</string>
+
+    <string name="SelectCountryTitle">Wähle ein Land dessen Konnektivitäts-Eigenschaften simuliert werden sollen.</string>
+    <string name="ChangedCountryTitle">Entwicklungsmodus</string>
+    <string name="ChangedCountryMessage">Zu Testzwecken simuliert die App ab jetzt einen Aufenthalt im Land %s.</string>
+
+    <string name="ConnectionInstructionsTitle">Verbindungs-Information</string>
+    <string name="ConnectionInstructionsMessage">Da der programmatische Aufbau von VPN-Verbindungen noch nicht unterstützt wird, kannst du nun deine VPN-Einstellungen öffnen und folgende Verbindungseinstellungen hinterlegen:\n\nIP adddress : port:\n%s</string>
+
+    <string name="NetworkRestrictionDetectedTitle">Netzwerk-Beschränkung</string>
+    <string name="NetworkRestrictionDetectedMessage">Leider blockiert ein Zensor allem Anschein nach die Verbindung zum Hilo Server. Hilo wurde für derartige fälle konzipiert und ermöglicht die Herstellung einer alternativen Verbindung zur Umgehung der bestehenden Blockade.</string>
+    <string name="NetworkRestrictionBypassButton">Blockade umgehen</string>
+
+    <string name="DnsBlockOptionTitle">Künstliche Netzwerkbeschränkung</string>
+    <string name="DnsBlockOptionMessage">Möchstest du eine künstliche Netzwerkbeschränkung aktivieren, um die Konnektivität in einem von Zensur betroffenen Gebiet zu simulieren?</string>
+    <string name="DnsBlockOptionActiveButton">Ja, Netzwerkbeschränkung aktivieren</string>
+    <string name="DnsBlockOptionPassiveButton">Nein, Netzwerkbeschränkung deaktivieren</string>
+
+    <string name="ArtificialNetworkRestrictionSetTitle">Künstliche Netzwerkbeschränkung</string>
+    <string name="ArtificialNetworkRestrictionSetMessage">Der folgende API-Endpunkt wird ab sofort verwendet:\n\n %s</string>
+
+    <string name="WrongCredentialsTitle">Falsche Zugangsdaten</string>
+    <string name="WrongCredentialsMessage">Dein Benutzername oder dein Passwort ist falsch.</string>
+
+    <string name="CN">China</string>
+    <string name="DE">Deutschland</string>
+
+    <string name="AccessPointListReceived.Apns.Message">Hilo hat %s neue Accces Points (Nodes) zur Umgehung von Netzwerkblockaden empfangen.</string>
+
+    <string name="SecretChatInvitationTitle1">Du hast %s zu einem geheimen Chat eingeladen</string>
+    <string name="SecretChatInvitationTitle2">Gehaime Chats:</string>
+
+    <string name="SecretChatInvitationGuideLine1">Verwenden Ende-zu-Ende Verschlüsselung</string>
+    <string name="SecretChatInvitationGuideLine2">Hinterlassen keine Spuren auf unseren Servern</string>
+    <string name="SecretChatInvitationGuideLine3">Haben einen Selbstzerstörungs Timer</string>
+    <string name="SecretChatInvitationGuideLine4">Erlauben keine Weiterleitung von Nachrichten</string>
+    <string name="SecretChatInvitationWait">Warte bis %s online geht</string>
+    
+     <string name="newContactWindowPhoneLabel">Geben Sie eine Telefonnummer ein</string>
+     <string name="newContactWindowNumber">Nummer des Kontakts</string>
+     <string name="newContactWindowScanLabel">Oder scannen Sie den QR-Code</string>
+     <string name="newContactWindowQrScanLabel">QR-scannen</string>
+     <string name="newContactWindowPleaseLabel">Bitten Sie Ihren Freund, den Bilschirm „Mehr“  aufzurufen und den QR-Code anzuzeigen,  damit Sie ihn scannen können</string>
+      <string name="newContactWindowSecurityLabel">Sicherheit Chatten Aktiviert</string>
+      <string name="newContactWindowPassword1HintText">Passwort eingeben</string>
+      <string name="newContactWindowPassword2HintText">Passwort wiederholen</string>
+      <string name="contactsGroupWindowAlert">Eine Gruppe muß mindestens 2 Personen enthalten</string>
+     
+</resources>
